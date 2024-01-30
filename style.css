@@ -1,0 +1,16 @@
+.grid{
+    width:606px;
+    height:606px;
+    display:flex;
+    flex-wrap:wrap;
+}
+.square{
+    height:200px;
+    width:200px;
+    border: solid black 1px;
+}
+
+.mole{
+    background-image: url(https://as2.ftcdn.net/v2/jpg/05/07/40/67/1000_F_507406708_o7dZQrBy97kXCWjjEIkTwRN9zdZUavys.jpg);
+    background-size: cover;
+}
